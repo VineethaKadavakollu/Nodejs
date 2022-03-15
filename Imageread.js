@@ -7,5 +7,6 @@ fs.writeFile('copied.jpg',data,err=>{
     console.log("Something went wrong");
     else
     console.log('Data Written');
+    
 });
 });
