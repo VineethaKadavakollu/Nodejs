@@ -1,0 +1,2 @@
+Writing data into the file
+Appending data into the file
